@@ -1,0 +1,9 @@
+title = "The Snack World"
+description = "The Snack World (スナックワールド Sunakku Wārudo) is a multimedia franchise created and developed by Level-5."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001C1800"
+region = "jpn"
+release_date = "2017-08-10"
